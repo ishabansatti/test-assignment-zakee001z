@@ -5,4 +5,5 @@ def sum_numbers(*args):
     """
     # TODO: implement the logic
     # total = sum(args)
+    total = sum(args)
     return total
